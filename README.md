@@ -1,1 +1,1 @@
-# Java_CS151
+# CS151_Sjsu
